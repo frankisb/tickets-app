@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_support_login.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_support_login.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_login_chooser.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_login_chooser.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/activity_client_main.xml",
+        "source": "com.supportticketapp-main-57:/layout/activity_client_main.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_working_ticket.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_working_ticket.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_ticket_detail.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_ticket_detail.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_basic_create_ticket.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_basic_create_ticket.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_barcode_scanner.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_barcode_scanner.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_ticket_list.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_ticket_list.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/item_ticket.xml",
+        "source": "com.supportticketapp-main-57:/layout/item_ticket.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/activity_agent_main.xml",
+        "source": "com.supportticketapp-main-57:/layout/activity_agent_main.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_customer_login.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_customer_login.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_ticket_status.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_ticket_status.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_create_ticket_form.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_create_ticket_form.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.supportticketapp-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/item_photo.xml",
+        "source": "com.supportticketapp-main-57:/layout/item_photo.xml"
+    },
+    {
+        "merged": "com.supportticketapp-mergeDebugResources-54:/layout/fragment_customer_tickets.xml",
+        "source": "com.supportticketapp-main-57:/layout/fragment_customer_tickets.xml"
+    }
+]

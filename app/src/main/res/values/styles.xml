@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base de la aplicación -->
+    <style name="Theme.SupportTicketApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Color primario de la marca -->
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorPrimaryDark">@color/md_theme_light_primary</item>
+        <item name="colorAccent">@color/md_theme_light_secondary</item>
+        
+        <!-- Color de la barra de estado -->
+        <item name="android:statusBarColor">@color/md_theme_light_primary</item>
+        <item name="android:windowLightStatusBar">true</item>
+        
+        <!-- Color de la barra de navegación -->
+        <item name="android:navigationBarColor">@color/md_theme_light_surface</item>
+    </style>
+</resources>

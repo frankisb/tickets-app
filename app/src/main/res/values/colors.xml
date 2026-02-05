@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores del Tema Claro de Material Design -->
+    <color name="md_theme_light_primary">#006e3c</color>
+    <color name="md_theme_light_onPrimary">#ffffff</color>
+    <color name="md_theme_light_primaryContainer">#8ff7b6</color>
+    <color name="md_theme_light_onPrimaryContainer">#00522d</color>
+    <color name="md_theme_light_secondary">#51633a</color>
+    <color name="md_theme_light_onSecondary">#ffffff</color>
+    <color name="md_theme_light_secondaryContainer">#d7e8b5</color>
+    <color name="md_theme_light_onSecondaryContainer">#3a4a24</color>
+    <color name="md_theme_light_tertiary">#386669</color>
+    <color name="md_theme_light_onTertiary">#ffffff</color>
+    <color name="md_theme_light_tertiaryContainer">#bceced</color>
+    <color name="md_theme_light_onTertiaryContainer">#1f4d50</color>
+    <color name="md_theme_light_error">#ba1a1a</color>
+    <color name="md_theme_light_errorContainer">#ffdad6</color>
+    <color name="md_theme_light_onError">#ffffff</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#fffbf5</color>
+    <color name="md_theme_light_onBackground">#1e1e19</color>
+    <color name="md_theme_light_surface">#fffbf5</color>
+    <color name="md_theme_light_onSurface">#1e1e19</color>
+    <color name="md_theme_light_surfaceVariant">#e1e4d3</color>
+    <color name="md_theme_light_onSurfaceVariant">#45483d</color>
+    <color name="md_theme_light_outline">#75786c</color>
+    <color name="md_theme_light_inverseOnSurface">#f7f1e8</color>
+    <color name="md_theme_light_inverseSurface">#33332a</color>
+    <color name="md_theme_light_inversePrimary">#6dd89c</color>
+    <color name="md_theme_light_surfaceDim">#ddd8ce</color>
+    <color name="md_theme_light_surfaceBright">#fffbf5</color>
+    <color name="md_theme_light_surfaceContainerLowest">#ffffff</color>
+    <color name="md_theme_light_surfaceContainerLow">#f7f1e8</color>
+    <color name="md_theme_light_surfaceContainer">#f1ebe1</color>
+    <color name="md_theme_light_surfaceContainerHigh">#ebedd6</color>
+    <color name="md_theme_light_surfaceContainerHighest">#e6e1d1</color>
+
+    <!-- Colores Adicionales -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_medium">#9E9E9E</color>
+    <color name="gray_dark">#424242</color>
+    
+    <!-- Colores de Estado -->
+    <color name="status_pending">#FFA726</color>
+    <color name="status_in_progress">#42A5F5</color>
+    <color name="status_escalated">#EF5350</color>
+    <color name="status_will_call">#66BB6A</color>
+    <color name="status_resolved">#26A69A</color>
+    <color name="status_closed">#78909C</color>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="gray_dark">#AAAAAA</color>
+    <color name="gray_light">#2A2A2A</color>
+    <color name="gray_medium">#6A6A6A</color>
+    <color name="md_theme_light_background">#1e1e19</color>
+    <color name="md_theme_light_error">#ffb4ab</color>
+    <color name="md_theme_light_errorContainer">#93000a</color>
+    <color name="md_theme_light_inverseOnSurface">#1e1e19</color>
+    <color name="md_theme_light_inversePrimary">#006e3c</color>
+    <color name="md_theme_light_inverseSurface">#e7e2d9</color>
+    <color name="md_theme_light_onBackground">#e7e2d9</color>
+    <color name="md_theme_light_onError">#690005</color>
+    <color name="md_theme_light_onErrorContainer">#ffdad6</color>
+    <color name="md_theme_light_onPrimary">#00391f</color>
+    <color name="md_theme_light_onPrimaryContainer">#8ff7b6</color>
+    <color name="md_theme_light_onSecondary">#233410</color>
+    <color name="md_theme_light_onSecondaryContainer">#d7e8b5</color>
+    <color name="md_theme_light_onSurface">#e7e2d9</color>
+    <color name="md_theme_light_onSurfaceVariant">#c5c8b8</color>
+    <color name="md_theme_light_onTertiary">#00363a</color>
+    <color name="md_theme_light_onTertiaryContainer">#bceced</color>
+    <color name="md_theme_light_outline">#8f9283</color>
+    <color name="md_theme_light_primary">#6dd89c</color>
+    <color name="md_theme_light_primaryContainer">#00522d</color>
+    <color name="md_theme_light_secondary">#bccd9b</color>
+    <color name="md_theme_light_secondaryContainer">#3a4a24</color>
+    <color name="md_theme_light_surface">#1e1e19</color>
+    <color name="md_theme_light_surfaceBright">#43433a</color>
+    <color name="md_theme_light_surfaceContainer">#22221d</color>
+    <color name="md_theme_light_surfaceContainerHigh">#2d2d27</color>
+    <color name="md_theme_light_surfaceContainerHighest">#383831</color>
+    <color name="md_theme_light_surfaceContainerLow">#1e1e19</color>
+    <color name="md_theme_light_surfaceContainerLowest">#181813</color>
+    <color name="md_theme_light_surfaceDim">#1e1e19</color>
+    <color name="md_theme_light_surfaceVariant">#45483d</color>
+    <color name="md_theme_light_tertiary">#a0d0d3</color>
+    <color name="md_theme_light_tertiaryContainer">#1f4d50</color>
+    <color name="status_closed">#90A4AE</color>
+    <color name="status_escalated">#EF5350</color>
+    <color name="status_in_progress">#64B5F6</color>
+    <color name="status_pending">#FFB74D</color>
+    <color name="status_resolved">#4DB6AC</color>
+    <color name="status_will_call">#81C784</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="Theme.SupportTicketApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorPrimaryDark">@color/md_theme_light_primary</item>
+        <item name="colorAccent">@color/md_theme_light_secondary</item>
+        
+        
+        <item name="android:statusBarColor">@color/md_theme_light_surface</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        
+        <item name="android:navigationBarColor">@color/md_theme_light_surface</item>
+    </style>
+</resources>

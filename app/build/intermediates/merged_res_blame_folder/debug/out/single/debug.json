@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.supportticketapp-merged_res-55:/xml_data_extraction_rules.xml.flat",
+        "source": "com.supportticketapp-main-57:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_ticket_detail.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_ticket_detail.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_create_ticket_form.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_create_ticket_form.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_item_photo.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/item_photo.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_barcode_scanner.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_barcode_scanner.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_activity_agent_main.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/activity_agent_main.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_support_login.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_support_login.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/drawable_ic_notification.xml.flat",
+        "source": "com.supportticketapp-main-57:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_customer_tickets.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_customer_tickets.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/drawable_ic_close.xml.flat",
+        "source": "com.supportticketapp-main-57:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/xml_backup_rules.xml.flat",
+        "source": "com.supportticketapp-main-57:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_login_chooser.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_login_chooser.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/drawable_scanner_overlay.xml.flat",
+        "source": "com.supportticketapp-main-57:/drawable/scanner_overlay.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_basic_create_ticket.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_basic_create_ticket.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_working_ticket.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_working_ticket.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_ticket_status.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_ticket_status.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_activity_main.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/xml_file_paths.xml.flat",
+        "source": "com.supportticketapp-main-57:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_ticket_list.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_ticket_list.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_activity_client_main.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/activity_client_main.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_fragment_customer_login.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/fragment_customer_login.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.supportticketapp-main-57:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/layout_item_ticket.xml.flat",
+        "source": "com.supportticketapp-main-57:/layout/item_ticket.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.supportticketapp-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.supportticketapp-merged_res-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.supportticketapp-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
